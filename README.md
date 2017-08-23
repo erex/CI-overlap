@@ -9,3 +9,5 @@ I have now gained access to this repo on my office computer; repo was initially 
 credential check
 
 Machine 013, using Notepad++ on existing repo directory.
+
+back to machine 012 and R-studio
