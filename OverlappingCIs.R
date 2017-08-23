@@ -8,6 +8,8 @@
 # http://www.mikemeredith.net/blog/Comparison_of_confidence_intervals.htm
 
 
+#' Eric might edit this file someday into an Rmd file
+
 #Set some constants
 alpha = 0.05 # significance level for t-test
 ci <- 0.95  # confidence interval
