@@ -11,3 +11,11 @@ credential check
 Machine 013, using Notepad++ on existing repo directory.
 
 back to machine 012 and R-studio
+
+
+| Date      | Machin   | Modifications                                                               |
+|-----------|----------|-----------------------------------------------------------------------------|
+| Monday    | Home     | created the repo on Github                                                  |
+| Tuesday   | Office   | cloned repo from github onto office                                         |
+| Wednesday | MicroLab | cloned onto 012 and 013 and edited                                          |
+| Wednesday | Office   | pulled from github to office machine, made this table in RStudio and pushed |
